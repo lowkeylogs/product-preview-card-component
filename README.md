@@ -6,5 +6,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Product preview card component solution](https://your-solution-url.com)
+- Solution URL: [Product preview card component solution](https://www.frontendmentor.io/solutions/product-preview-card-component-1QABG0-SUr) 
 - Live Site URL: [https://amgnim.github.io/product-preview-card-component/](https://amgnim.github.io/product-preview-card-component/)
